@@ -1,0 +1,17 @@
+.contenedor {
+    background-color: #8a8787;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.tarjeta {
+    width: 200px;
+    height: 200px;
+    background-color: #fac107;
+    border: 2px solid #424242;
+    margin: 20px;
+
+}
